@@ -1,0 +1,16 @@
+# Secretos: nunca subir
+.env
+.env.*
+!.env.example
+
+# Entornos y cachés de Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db

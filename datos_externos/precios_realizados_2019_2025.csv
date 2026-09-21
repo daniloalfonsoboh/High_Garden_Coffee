@@ -1,0 +1,8 @@
+year,arabica_cents_lb,robusta_cents_lb,arabica_usd_kg,robusta_usd_kg,cpi_u_annual_avg,fuente,fuente_ipc
+2019,,,2.88,1.62,255.657,"Banco Mundial, Pink Sheet oct-2021 (US$/kg; indicador ICO)","BLS, CPI-U all items, promedio anual (historical-cpi-u-202412.pdf)"
+2020,,,3.32,1.52,258.811,"Banco Mundial, Pink Sheet oct-2021 (US$/kg; indicador ICO)","BLS, CPI-U all items, promedio anual (historical-cpi-u-202412.pdf)"
+2021,204.69403,89.82432,4.5127,1.9803,270.97,FMI vía FRED PCOFFOTMUSDA / PCOFFROBUSDA (centavos/lb),"BLS, CPI-U all items, promedio anual (historical-cpi-u-202412.pdf)"
+2022,255.4659,103.6298,5.6321,2.2846,292.655,FMI vía FRED PCOFFOTMUSDA / PCOFFROBUSDA (centavos/lb),"BLS, CPI-U all items, promedio anual (historical-cpi-u-202412.pdf)"
+2023,205.95975,119.12706,4.5406,2.6263,304.702,FMI vía FRED PCOFFOTMUSDA / PCOFFROBUSDA (centavos/lb),"BLS, CPI-U all items, promedio anual (historical-cpi-u-202412.pdf)"
+2024,255.44463,200.74982,5.6316,4.4258,313.689,FMI vía FRED PCOFFOTMUSDA / PCOFFROBUSDA (centavos/lb),"BLS, CPI-U all items, promedio anual (historical-cpi-u-202412.pdf)"
+2025,383.09798,220.2274,8.4459,4.8552,,FMI vía FRED PCOFFOTMUSDA / PCOFFROBUSDA (centavos/lb); IPC anual 2025 no disponible (sin dato de oct-2025),sin dato: el BLS no publicó octubre de 2025
